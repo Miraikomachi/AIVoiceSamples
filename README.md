@@ -13,26 +13,26 @@ Copyright (C) Bandai Namco Research Inc.
 
 本キャラクターガイドラインは、「ミライ小町」のイラスト・画像、3Dモデルデータ、キャラクターの使用に関するガイドラインです。
 
-#### 第1条(使用許諾)
+#### 第1条（使用許諾）
 
 当社は、個人、または同人サークルが「ミライ小町」のイラストを基にした二次創作物を非商用の目的に限って使用することを許諾します。
 「ミライ小町」のオリジナルイラスト及びロゴは、非商用の目的に限り、動画投稿サイトへの動画投稿においてご使用いただけます。
-また、以下の使用については一切禁止いたします。
 
+また、以下の使用については一切禁止いたします。
 * ミライ小町のイメージを著しく損なうような使用
 * 公序良俗および社会倫理に反するような使用
 * 他者の権利を侵害する、または侵害のおそれがある使用
 * 当社公式製品のような誤解を招く使用
 
-#### 第2条 (3Dモデルデータの利用) 
+#### 第2条 (ミライ小町データの利用)
 
-当社は、個人、または同人サークルが、ミライ小町の3Dモデルデータ(モデルデータ、テクスチャ、音声データ、アニメーションデータ)を、ゲーム、映像、画像制作などの創作活動、研究活動におけるアセット素材として使用することを許諾します。  
-また、法人や地方公共団体であっても、学術発表、教育、技術研究の用途に限りご使用いただけます。  
-ただし、以下の事項は禁止させていただきますのでご了承ください。  
+当社は、個人、または同人サークルが、ミライ小町データ(3Dモデルデータ、テクスチャ、音声データ、アニメーションデータ)を、ゲーム、映像、画像制作などの創作活動、研究活動におけるアセット素材として使用することを許諾します。
+また、法人や地方公共団体であっても、学術発表、教育、技術研究の用途に限りご使用いただけます。
 
-* 「ミライ小町」の3Dモデルを使用した創作物を商用利用すること
-* アバター(VTuberやゲーム・SNSアバターなど)として使用すること
-* 「ミライ小町」3Dモデル自体を再頒布(改変して再頒布することも含む)すること
+ただし、以下の事項は禁止させていただきますのでご了承ください。
+* 「ミライ小町データ」を使用した創作物を商用利用すること
+* アバター（VTuberやゲーム・SNSアバターなど）として使用すること
+* 「ミライ小町データ」自体を再頒布（改変して再頒布することも含む）すること
 * 「ミライ小町キャラクター使用に関するガイドライン 第1条」で禁止されていること
 
 尚、ミライ小町のUnityプロジェクトに含まれるアセットの中には、オープンソースライセンスのもと提供されているものが含まれますので、プロジェクト内に添付の各ライセンスをご確認の上ご使用ください。
@@ -43,39 +43,35 @@ Copyright (C) Bandai Namco Research Inc.
 
 ### Miraikomachi License Agreements
 
-This Character Guideline is a guideline for the use of Mirai Komachi illustrations, 3D models, and characters.
+The Character Usage Guidelines are guidelines for using Mirai Komachi illustrations and images, 3D model data,sound data and the character.
 
-#### Article 1 (License)
+#### Article 1. USAGE AUTHORIZATION
 
-We authorize individuals or their circles to use secondary creations based on the illustrations of the Mirai Komachi for non-commercial purposes only.
+We authorize individuals and fan clubs to use derivative works based on the illustrations of Mirai Komachi, limited to non-commercial purposes only.
+Original Mirai Komachi illustrations and logos may be used when posting videos to video sites, limited to non-commercial purposes only.
 
-The original Mirai Komachi illustrations and logos can be used for non-commercial purposes only when posting videos to video sites.
+In addition, any of the following usage is prohibited.
+* Use that significantly damages the image oSf Mirai Komachi
+* Use that violates public order and social morals
+* Use that infringes or threatens to infringe upon the rights of another party
+* Use that could create the misunderstanding that the work is an official product of Bandai Namco Studios
 
-In addition, the following shall be prohibited.
 
-* Use that significantly impairs the image of the Mirai Komachi
-* Use that violates public order, morals and social ethics
-* Use that infringes or threatens to infringe upon the rights of third party.
-* Misleading uses like our official products
+#### Article 2. USE OF MIRAI KOMACHI DATA
 
-#### Article 2 (Use of 3D Models)
+We authorize individuals and fan clubs to use Mirai Komachi's data ( 3d model data, textures, sound data, animation data) as asset materials in creative activities such as game, video, and image production as well as in research activities. In addition, corporations and local public organizations can use the 3D model data, limited to academic presentations, education, and technological research purposes.
 
-We authorize individuals or their circles to use Mirai Komachi's 3D model data (model data, texture, audio data, animation data) as asset material in creative such as games, video and image production and research activities.
+However, the following is prohibited.
+* Commercial-use creations using data of Mirai Komachi
+* Use as avatars (such as VTuber and game/social media avatars)
+* Redistribution (including modification and redistribution) of the Mirai Komachi data themselves
+* Acts prohibited in Article 1 of the Character Usage Guidelines
 
-In addition, corporations and local public organizations can use the 3D Models only for academic presentations, education, and technical research purposes.
+Note that some of the assets included in the Mirai Komachi Unity Project are provided under open-source licenses. Please refer to the licenses attached to the project when using the assets.
 
-However, the following items are prohibited.
+Contact us for other uses.
+Contact information（miraikomachi@bandainamcostudios.co.jp）
+We may change the content of this usage authorization at our discretion.
 
-* Commercially use creations using Mirai Komachi's 3D models
-* To be used as avatars (such as VTuber or gaming/SNS avatars)
-* Redistribute (including modify and redistribute) the Mirai Komachi's 3D models themselves
-* Prohibited in Article 1 of this Character Guideline
-
-Note that some of the assets included in the Unity projects in Mirai Komachi are provided under an open source license. Please refer to the attached license for use within the project.
-
-Contact us for other uses.  
-Contact information (miraikomachi@bandainamcostudios.co.jp)
-
-We may change the contents of this license from time to time at our discretion.
-
-If this English version of the Character Guideline conflict to the Japanese version, the Japanese version shall prevail.
+©BANDAI NAMCO Research Inc.
+©MIRAIKOMACHI PROJECT
