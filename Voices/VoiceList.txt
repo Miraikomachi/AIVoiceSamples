@@ -1,0 +1,96 @@
+--------------------------------------------------------------------------------
+■ミライ小町音声
+--------------------------------------------------------------------------------
+miraikomachi_voice_01 こんにちは！ミライ小町です。
+miraikomachi_voice_02 おはようございます。朝ですよ。
+miraikomachi_voice_03 おはようございます！早起きなんですね。
+miraikomachi_voice_04 お昼ですよ！
+miraikomachi_voice_05 お腹がすきましたね。お昼ご飯たべませんか？
+miraikomachi_voice_06 人参美味しいですよ。残さないで食べてくださいね。
+miraikomachi_voice_07 お疲れ様でした！
+miraikomachi_voice_08 今日も一日お疲れ様。明日も頑張りましょうね。
+miraikomachi_voice_09 今日も一日、楽しかったね。おやすみなさい。
+miraikomachi_voice_10 ごめんなさい。もう眠いので、また、明日。
+miraikomachi_voice_11 頑張ってください。応援してます！
+miraikomachi_voice_12 技術研究の進捗状況はいかがですか？ギブアップするのなら今のうち、ですよ。
+miraikomachi_voice_13 AIを使った音声合成技術の発展はめざましいですね。
+miraikomachi_voice_14 本日お届けするのは、初公開！私も協力している研究のプロトタイプです。
+miraikomachi_voice_15 私のモデルデータは公式ページからDLできますよ。創作活動や技術研究に活用してくださいね。
+miraikomachi_voice_16 え？ミライ小町のAIの仕組みですか？それは、秘密です。
+miraikomachi_voice_17 そろそろ出発の時間ですよ。遅れないように準備して下さいね
+miraikomachi_voice_18 すきなものは猫ちゃん
+miraikomachi_voice_19 良い子のみなさん、おててはちゃんと洗いましょうね。
+miraikomachi_voice_20 よしよし、よくできました。とってもいい感じですね。
+miraikomachi_voice_21 みなさんこんにちは。ミライ小町ラジオの時間ですよ。
+miraikomachi_voice_22 それではスタートです！
+miraikomachi_voice_23 それでは、聞いてください！どうぞ！
+miraikomachi_voice_24 長い時間、お疲れ様でした。皆様、ご清聴ありがとうございました！
+miraikomachi_voice_25 忘れものの無いよう、気を付けてお帰り下さい。
+miraikomachi_voice_26 私、ミライ小町は、テクノロジーで世界中を笑顔にしたい。そう思ってます！
+miraikomachi_voice_27 ミライ小町に関するお問い合わせは、公式ホームページよりお願いします！
+
+--------------------------------------------------------------------------------
+■ミライ小町ひそひそ音声
+--------------------------------------------------------------------------------
+miraikomachi_voice_28 朝ですよ。起きてくださいね。
+miraikomachi_voice_29 気分はどうですか？よく眠れましたか？
+miraikomachi_voice_30 ここだけの話ですけど。他にもいろいろな研究をしているんですよ。
+miraikomachi_voice_31 企業秘密です。誰にも言わないでくださいね。
+miraikomachi_voice_32 地球の皆さん、私の声が聞こえますか？
+
+--------------------------------------------------------------------------------
+ミライ小町キャラクター使用ガイドライン / CHARACTER USAGE GUIDELINES
+--------------------------------------------------------------------------------
+本キャラクターガイドラインは、「ミライ小町」のイラスト・画像、3Dモデルデータ、音声データ、キャラクターの使用に関するガイドラインです。
+
+第1条（使用許諾）
+当社は、個人、または同人サークルが「ミライ小町」のイラストを基にした二次創作物を非商用の目的に限って使用することを許諾します。
+「ミライ小町」のオリジナルイラスト及びロゴは、非商用の目的に限り、動画投稿サイトへの動画投稿においてご使用いただけます。
+
+また、以下の使用については一切禁止いたします。
+・ミライ小町のイメージを著しく損なうような使用
+・公序良俗および社会倫理に反するような使用
+・他者の権利を侵害する、または侵害のおそれがある使用
+・当社公式製品のような誤解を招く使用
+
+第2条 (ミライ小町データの利用)
+当社は、個人、または同人サークルが、ミライ小町データ(3Dモデルデータ、テクスチャ、音声データ、アニメーションデータ)を、ゲーム、映像、画像制作などの創作活動、研究活動におけるアセット素材として使用することを許諾します。
+また、法人や地方公共団体であっても、学術発表、教育、技術研究の用途に限りご使用いただけます。
+
+ただし、以下の事項は禁止させていただきますのでご了承ください。
+・「ミライ小町データ」を使用した創作物を商用利用すること
+・アバター（VTuberやゲーム・SNSアバターなど）として使用すること
+・「ミライ小町データ」自体を再頒布（改変して再頒布することも含む）すること
+・「ミライ小町キャラクター使用に関するガイドライン 第1条」で禁止されていること
+
+尚、ミライ小町のUnityプロジェクトに含まれるアセットの中には、オープンソースライセンスのもと提供されているものが含まれますので、プロジェクト内に添付の各ライセンスをご確認の上ご使用ください。
+
+The Character Usage Guidelines are guidelines for using Mirai Komachi illustrations and images, 3D model data,sound data and the character.
+
+Article 1. USAGE AUTHORIZATION
+We authorize individuals and fan clubs to use derivative works based on the illustrations of Mirai Komachi, limited to non-commercial purposes only.
+Original Mirai Komachi illustrations and logos may be used when posting videos to video sites, limited to non-commercial purposes only.
+
+In addition, any of the following usage is prohibited.
+・Use that significantly damages the image of Mirai Komachi
+・Use that violates public order and social morals
+・Use that infringes or threatens to infringe upon the rights of another party
+・Use that could create the misunderstanding that the work is an official product of Bandai Namco Studios
+
+Article 2. USE OF MIRAI KOMACHI DATA
+We authorize individuals and fan clubs to use Mirai Komachi's data ( 3d model data, textures, sound data, animation data) as asset materials in creative activities such as game, video, and image production as well as in research activities. In addition, corporations and local public organizations can use the 3D model data, limited to academic presentations, education, and technological research purposes.
+
+However, the following is prohibited.
+・Commercial-use creations using data of Mirai Komachi
+・Use as avatars (such as VTuber and game/social media avatars)
+・Redistribution (including modification and redistribution) of the Mirai Komachi data themselves
+・Acts prohibited in Article 1 of the Character Usage Guidelines
+
+Note that some of the assets included in the Mirai Komachi Unity Project are provided under open-source licenses. Please refer to the licenses attached to the project when using the assets.
+
+Contact us for other uses.
+Contact information（miraikomachi@bandainamcostudios.co.jp）
+We may change the content of this usage authorization at our discretion.
+
+©BANDAI NAMCO Research Inc.
+©MIRAIKOMACHI PROJECT
